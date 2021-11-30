@@ -5,3 +5,8 @@
 ./images 识别后的图片  
 ./people 存放因为特殊字体或其他原因OCR识别失败后，用以图找图识别备用方案的图片  
 
+## Usage
+```
+python ./img.py
+```
+自动识别image中的文件进行重命名放到images下
