@@ -9,5 +9,6 @@
 ```
 python ./img.py
 ```
-需要安装pytesseract,tesseract以及其他py图片库自行查看
 自动识别image中的文件进行重命名放到images下
+需要安装pytesseract,tesseract以及其他py图片库自行查看
+
